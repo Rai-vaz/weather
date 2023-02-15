@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+
+:root {
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+ 
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(180deg, #5f51ff 0%, #5c8ca5 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hide {
+  display: hide;
+}
