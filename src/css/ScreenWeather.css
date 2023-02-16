@@ -61,11 +61,6 @@ div#weather-data{
     font-size: 30px;
 }
 
-#country{
-    height: 40px;
-    margin-bottom: -12px;
-}
-
 .icon{
     font-size: 40px;
     padding: none !important;
