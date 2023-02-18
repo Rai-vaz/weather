@@ -1,0 +1,49 @@
+div#weather-data{
+    border-top: 1px solid #fdfdfd;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+#city{
+    margin: 0 10px;
+}
+
+#icon-map{
+    font-size: 30px;
+}
+
+.icon{
+    font-size: 40px;
+    padding: none !important;
+}
+
+#temperature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#description-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.6rem 0;
+}
+
+#description{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+div#details-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#details-container #umidity{
+    border-right: 1px solid #fdfdfd;
+    margin: 0.6rem;
+    padding: 0.6rem;
+}
